@@ -1,0 +1,399 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//GZU MBA2604 Schedule//MBA Education Center//
+CALSCALE:GREGORIAN
+X-WR-CALNAME:贵州大学MBA2604班第一学期课表
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:mba2604-20260828-am-registration@gzu
+SUMMARY:报到注册
+DESCRIPTION:
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20260828T083000
+DTEND;TZID=Asia/Shanghai:20260828T120000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20260829-am-opening@gzu
+SUMMARY:开学典礼
+DESCRIPTION:
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20260829T083000
+DTEND;TZID=Asia/Shanghai:20260829T120000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20260829-pm-orientation@gzu
+SUMMARY:入学教育
+DESCRIPTION:
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20260829T140000
+DTEND;TZID=Asia/Shanghai:20260829T173000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20260830-day-training@gzu
+SUMMARY:素质拓展
+DESCRIPTION:
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20260830T083000
+DTEND;TZID=Asia/Shanghai:20260830T173000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20260912-am-dmd@gzu
+SUMMARY:数据、模型与决策（DMD）
+DESCRIPTION:教师: 钟健；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20260912T083000
+DTEND;TZID=Asia/Shanghai:20260912T120000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20260912-pm-management@gzu
+SUMMARY:管理学原理
+DESCRIPTION:教师: 章莉南子；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20260912T140000
+DTEND;TZID=Asia/Shanghai:20260912T173000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20260912-eve-modernization@gzu
+SUMMARY:中国式现代化的理论与实践
+DESCRIPTION:教师: 陈中；课程类别: 学位公共课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20260912T183000
+DTEND;TZID=Asia/Shanghai:20260912T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20260913-am-business-english@gzu
+SUMMARY:商务英语
+DESCRIPTION:教师: 王飞；课程类别: 学位公共课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20260913T083000
+DTEND;TZID=Asia/Shanghai:20260913T120000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20260913-pm-economics@gzu
+SUMMARY:管理经济学
+DESCRIPTION:教师: 杜娟；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20260913T140000
+DTEND;TZID=Asia/Shanghai:20260913T173000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261024-am-dmd@gzu
+SUMMARY:数据、模型与决策（DMD）
+DESCRIPTION:教师: 钟健；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261024T083000
+DTEND;TZID=Asia/Shanghai:20261024T120000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261024-pm-management@gzu
+SUMMARY:管理学原理
+DESCRIPTION:教师: 章莉南子；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261024T140000
+DTEND;TZID=Asia/Shanghai:20261024T173000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261024-eve-business-english@gzu
+SUMMARY:商务英语
+DESCRIPTION:教师: 王飞；课程类别: 学位公共课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261024T183000
+DTEND;TZID=Asia/Shanghai:20261024T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261025-am-modernization@gzu
+SUMMARY:中国式现代化的理论与实践
+DESCRIPTION:教师: 陈中；课程类别: 学位公共课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261025T083000
+DTEND;TZID=Asia/Shanghai:20261025T120000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261025-pm-economics@gzu
+SUMMARY:管理经济学
+DESCRIPTION:教师: 杜娟；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261025T140000
+DTEND;TZID=Asia/Shanghai:20261025T173000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261031-am-dmd@gzu
+SUMMARY:数据、模型与决策（DMD）
+DESCRIPTION:教师: 钟健；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261031T083000
+DTEND;TZID=Asia/Shanghai:20261031T120000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261031-pm-management@gzu
+SUMMARY:管理学原理
+DESCRIPTION:教师: 章莉南子；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261031T140000
+DTEND;TZID=Asia/Shanghai:20261031T173000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261031-eve-business-english@gzu
+SUMMARY:商务英语
+DESCRIPTION:教师: 王飞；课程类别: 学位公共课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261031T183000
+DTEND;TZID=Asia/Shanghai:20261031T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261101-am-modernization@gzu
+SUMMARY:中国式现代化的理论与实践
+DESCRIPTION:教师: 陈中；课程类别: 学位公共课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261101T083000
+DTEND;TZID=Asia/Shanghai:20261101T120000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261101-pm-economics@gzu
+SUMMARY:管理经济学
+DESCRIPTION:教师: 杜娟；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261101T140000
+DTEND;TZID=Asia/Shanghai:20261101T173000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261114-am-dmd@gzu
+SUMMARY:数据、模型与决策（DMD）
+DESCRIPTION:教师: 钟健；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261114T083000
+DTEND;TZID=Asia/Shanghai:20261114T120000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261114-pm-management@gzu
+SUMMARY:管理学原理
+DESCRIPTION:教师: 章莉南子；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261114T140000
+DTEND;TZID=Asia/Shanghai:20261114T173000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261114-eve-modernization@gzu
+SUMMARY:中国式现代化的理论与实践
+DESCRIPTION:教师: 陈中；课程类别: 学位公共课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261114T183000
+DTEND;TZID=Asia/Shanghai:20261114T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261115-am-business-english@gzu
+SUMMARY:商务英语
+DESCRIPTION:教师: 王飞；课程类别: 学位公共课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261115T083000
+DTEND;TZID=Asia/Shanghai:20261115T120000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261115-pm-economics@gzu
+SUMMARY:管理经济学
+DESCRIPTION:教师: 杜娟；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261115T140000
+DTEND;TZID=Asia/Shanghai:20261115T173000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261121-am-dmd@gzu
+SUMMARY:数据、模型与决策（DMD）
+DESCRIPTION:教师: 钟健；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261121T083000
+DTEND;TZID=Asia/Shanghai:20261121T120000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261121-pm-management@gzu
+SUMMARY:管理学原理
+DESCRIPTION:教师: 章莉南子；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261121T140000
+DTEND;TZID=Asia/Shanghai:20261121T173000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261121-eve-economics@gzu
+SUMMARY:管理经济学
+DESCRIPTION:教师: 杜娟；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261121T183000
+DTEND;TZID=Asia/Shanghai:20261121T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261122-am-business-english@gzu
+SUMMARY:商务英语
+DESCRIPTION:教师: 王飞；课程类别: 学位公共课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261122T083000
+DTEND;TZID=Asia/Shanghai:20261122T120000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261122-pm-modernization@gzu
+SUMMARY:中国式现代化的理论与实践
+DESCRIPTION:教师: 陈中；课程类别: 学位公共课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261122T140000
+DTEND;TZID=Asia/Shanghai:20261122T173000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261205-am-dmd@gzu
+SUMMARY:数据、模型与决策（DMD）
+DESCRIPTION:教师: 钟健；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261205T083000
+DTEND;TZID=Asia/Shanghai:20261205T120000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261205-pm-management@gzu
+SUMMARY:管理学原理
+DESCRIPTION:教师: 章莉南子；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261205T140000
+DTEND;TZID=Asia/Shanghai:20261205T173000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261205-eve-economics@gzu
+SUMMARY:管理经济学
+DESCRIPTION:教师: 杜娟；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261205T183000
+DTEND;TZID=Asia/Shanghai:20261205T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261206-am-business-english@gzu
+SUMMARY:商务英语
+DESCRIPTION:教师: 王飞；课程类别: 学位公共课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261206T083000
+DTEND;TZID=Asia/Shanghai:20261206T120000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261206-pm-modernization@gzu
+SUMMARY:中国式现代化的理论与实践
+DESCRIPTION:教师: 陈中；课程类别: 学位公共课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261206T140000
+DTEND;TZID=Asia/Shanghai:20261206T173000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261212-am-dmd@gzu
+SUMMARY:数据、模型与决策（DMD）
+DESCRIPTION:教师: 钟健；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261212T083000
+DTEND;TZID=Asia/Shanghai:20261212T120000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261212-pm-economics@gzu
+SUMMARY:管理经济学
+DESCRIPTION:教师: 杜娟；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261212T140000
+DTEND;TZID=Asia/Shanghai:20261212T173000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261212-eve-management@gzu
+SUMMARY:管理学原理
+DESCRIPTION:教师: 章莉南子；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261212T183000
+DTEND;TZID=Asia/Shanghai:20261212T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261213-am-business-english@gzu
+SUMMARY:商务英语
+DESCRIPTION:教师: 王飞；课程类别: 学位公共课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261213T083000
+DTEND;TZID=Asia/Shanghai:20261213T120000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261213-pm-modernization@gzu
+SUMMARY:中国式现代化的理论与实践
+DESCRIPTION:教师: 陈中；课程类别: 学位公共课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261213T140000
+DTEND;TZID=Asia/Shanghai:20261213T173000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261226-am-modernization@gzu
+SUMMARY:中国式现代化的理论与实践
+DESCRIPTION:教师: 陈中；课程类别: 学位公共课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261226T083000
+DTEND;TZID=Asia/Shanghai:20261226T120000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261226-pm-management@gzu
+SUMMARY:管理学原理
+DESCRIPTION:教师: 章莉南子；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261226T140000
+DTEND;TZID=Asia/Shanghai:20261226T173000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261226-eve-dmd@gzu
+SUMMARY:数据、模型与决策（DMD）
+DESCRIPTION:教师: 钟健；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261226T183000
+DTEND;TZID=Asia/Shanghai:20261226T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261227-am-business-english@gzu
+SUMMARY:商务英语
+DESCRIPTION:教师: 王飞；课程类别: 学位公共课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261227T083000
+DTEND;TZID=Asia/Shanghai:20261227T120000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20261227-pm-economics@gzu
+SUMMARY:管理经济学
+DESCRIPTION:教师: 杜娟；课程类别: 学位专业课
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20261227T140000
+DTEND;TZID=Asia/Shanghai:20261227T173000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20270109-am-business-english-exam@gzu
+SUMMARY:商务英语（考试）
+DESCRIPTION:教师: 王飞；课程类别: 学位公共课；考试安排
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20270109T083000
+DTEND;TZID=Asia/Shanghai:20270109T120000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20270109-pm-modernization-exam@gzu
+SUMMARY:中国式现代化的理论与实践（考试）
+DESCRIPTION:教师: 陈中；课程类别: 学位公共课；考试安排
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20270109T140000
+DTEND;TZID=Asia/Shanghai:20270109T173000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20270109-eve-management-exam@gzu
+SUMMARY:管理学原理（考试）
+DESCRIPTION:教师: 章莉南子；课程类别: 学位专业课；考试安排
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20270109T183000
+DTEND;TZID=Asia/Shanghai:20270109T220000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20270110-am-economics-exam@gzu
+SUMMARY:管理经济学（考试）
+DESCRIPTION:教师: 杜娟；课程类别: 学位专业课；考试安排
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20270110T083000
+DTEND;TZID=Asia/Shanghai:20270110T120000
+END:VEVENT
+BEGIN:VEVENT
+UID:mba2604-20270110-pm-dmd-exam@gzu
+SUMMARY:数据、模型与决策（DMD）（考试）
+DESCRIPTION:教师: 钟健；课程类别: 学位专业课；考试安排
+LOCATION:贵州大学东校区管理学院和慎思楼MBA教育中心（具体教室按周课表通知）
+DTSTART;TZID=Asia/Shanghai:20270110T140000
+DTEND;TZID=Asia/Shanghai:20270110T173000
+END:VEVENT
+END:VCALENDAR
